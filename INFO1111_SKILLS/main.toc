@@ -3,9 +3,9 @@
 \contentsline {section}{\numberline {2.}Individual Response}{3}{section.0.2}%
 \contentsline {subsection}{\numberline {2.1.}Skills for Computer Science: Kaffa Fan}{3}{subsection.0.2.1}%
 \contentsline {subsection}{\numberline {2.2.}Skills for SW Development: Jared Song}{3}{subsection.0.2.2}%
-\contentsline {subsubsection}{Key Technical Skills}{3}{subsubsection*.1}%
-\contentsline {subsubsection}{Skill Development through Collaboration}{3}{subsubsection*.2}%
-\contentsline {subsubsection}{Areas for Improvement}{3}{subsubsection*.3}%
+\contentsline {subsubsection}{Key Technical Skills}{4}{subsubsection*.1}%
+\contentsline {subsubsection}{Skill Development through Collaboration}{4}{subsubsection*.2}%
+\contentsline {subsubsection}{Areas for Improvement}{4}{subsubsection*.3}%
 \contentsline {section}{\numberline {3.}Submission contribution overview}{5}{section.0.3}%
 \contentsline {subsection}{\numberline {3.1.}Submission 1 contribution overview}{5}{subsection.0.3.1}%
 \contentsline {subsection}{\numberline {3.2.}Submission 2 contribution overview}{5}{subsection.0.3.2}%
