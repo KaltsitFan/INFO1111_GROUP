@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.29)  4 APR 2025 20:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.29)  4 APR 2025 21:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -435,12 +435,12 @@ Overfull \hbox (3.06747pt too wide) in paragraph at lines 84--84
 <kaffa/clone.png, id=70, 603.37921pt x 263.86078pt>
 File: kaffa/clone.png Graphic file (type png)
 <use kaffa/clone.png>
-Package pdftex.def Info: kaffa/clone.png  used on input line 166.
+Package pdftex.def Info: kaffa/clone.png  used on input line 169.
 (pdftex.def)             Requested size: 341.43437pt x 149.31111pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 167.
+(caption)                particular \caption on input line 170.
 See the caption package documentation for explanation.
 
 
@@ -449,28 +449,41 @@ See the caption package documentation for explanation.
 <kaffa/push.png, id=79, 616.17703pt x 540.14297pt>
 File: kaffa/push.png Graphic file (type png)
 <use kaffa/push.png>
-Package pdftex.def Info: kaffa/push.png  used on input line 177.
+Package pdftex.def Info: kaffa/push.png  used on input line 187.
 (pdftex.def)             Requested size: 341.43437pt x 299.30486pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 178.
-See the caption package documentation for explanation.
-
-File: kaffa/clone.png Graphic file (type png)
-<use kaffa/clone.png>
-Package pdftex.def Info: kaffa/clone.png  used on input line 188.
-(pdftex.def)             Requested size: 341.43437pt x 149.31111pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 189.
+(caption)                particular \caption on input line 188.
 See the caption package documentation for explanation.
 
 
 
 [4 <./kaffa/clone.png> <./kaffa/push.png>]
+<kaffa/synchronize.png, id=88, 427.2211pt x 316.55766pt>
+File: kaffa/synchronize.png Graphic file (type png)
+<use kaffa/synchronize.png>
+Package pdftex.def Info: kaffa/synchronize.png  used on input line 202.
+(pdftex.def)             Requested size: 341.43437pt x 252.99046pt.
 
-[5]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 203.
+See the caption package documentation for explanation.
+
+<kaffa/forpdf.png, id=89, 497.23265pt x 347.42297pt>
+File: kaffa/forpdf.png Graphic file (type png)
+<use kaffa/forpdf.png>
+Package pdftex.def Info: kaffa/forpdf.png  used on input line 220.
+(pdftex.def)             Requested size: 341.43437pt x 238.56644pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 221.
+See the caption package documentation for explanation.
+
+
+
+[5 <./kaffa/synchronize.png> <./kaffa/forpdf.png>]
 
 [6]
 
@@ -478,9 +491,11 @@ See the caption package documentation for explanation.
 
 [8]
 
-[9] (./main.bbl)
+[9]
 
-[10
+[10] (./main.bbl)
+
+[11
 
 ] (./main.aux)
  ***********
@@ -491,18 +506,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 12A66D4875B8B500CFFC8EF63CBA2114;1995.
  ) 
 Here is how much of TeX's memory you used:
- 12952 strings out of 473190
- 211103 string characters out of 5719979
+ 12968 strings out of 473190
+ 211475 string characters out of 5719979
  629988 words of memory out of 5000000
- 36028 multiletter control sequences out of 15000+600000
+ 36042 multiletter control sequences out of 15000+600000
  571170 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,469b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (11 pages, 361832 bytes).
+Output written on main.pdf (12 pages, 489080 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 175 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

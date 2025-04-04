@@ -157,37 +157,71 @@ Technical discussions still contained excessive professional jargon, and unfamil
 \section*{3. Git Response}
 
 \textbf{1. Clone the repository}
+
+Clone the remote repository to your local computer:
 \begin{verbatim}
 git clone https://github.com/KaltsitFan/INFO1111_T4_SL_GROUP_6
 \end{verbatim}
-Download a copy of the remote repository to your local computer.This picture is show clone
+
+This picture illustrates the cloning process:
 
 \begin{center}
 \includegraphics[width=0.8\textwidth]{kaffa/clone.png}
 \captionof{figure}{Cloning the repository}
 \end{center}
 
-\textbf{2. Add all changed files}
+\textbf{2. Stage, Commit, Push, and Check Status}
+
+Stage all modified files, commit the changes with a clear message, push the committed changes to GitHub, and verify the repository status:
+
 \begin{verbatim}
-git add ./ git comimt -m"" / git push / git status
+git add .
+git commit -m "Your commit message"
+git push
+git status
 \end{verbatim}
-Stage all modified files to prepare them for commit.
+
+This picture demonstrates staging, committing, pushing, and checking status:
 
 \begin{center}
 \includegraphics[width=0.8\textwidth]{kaffa/push.png}
-\captionof{figure}{Adding files to the staging area}
+\captionof{figure}{Staging, committing, pushing changes, and checking status}
 \end{center}
 
-\textbf{3.synchronization}
+\textbf{3. Synchronize with remote repository}
+
+Pull the latest updates from the GitHub repository to synchronize your local repository:
+
 \begin{verbatim}
-git add .
+git pull origin main
 \end{verbatim}
-Stage all modified files to prepare them for commit.
+
+This picture shows synchronizing the local repository with remote updates:
 
 \begin{center}
-\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
-\captionof{figure}{Adding files to the staging area}
+\includegraphics[width=0.8\textwidth]{kaffa/synchronize.png}
+\captionof{figure}{Pulling latest changes from remote repository}
 \end{center}
+
+
+\textbf{4. Generate PDF using Git Terminal}
+
+Compile your LaTeX document into PDF using Git terminal commands:
+
+\begin{verbatim}
+bibtex main.aux and pdflatex yourfile.tex
+\end{verbatim}
+
+This generates a PDF document from your LaTeX file directly via terminal. Bibtex make sure citation correct
+
+This picture illustrates generating a PDF using terminal:
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/forpdf.png}
+\captionof{figure}{Generating PDF using Git terminal}
+\end{center}
+
+
 
 
 
