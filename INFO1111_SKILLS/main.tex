@@ -11,6 +11,7 @@
 \usepackage{multirow}
 \usepackage[english]{babel}
 \usepackage{graphicx}
+\usepackage{caption}
 
 \geometry{ margin=30mm }
 \counterwithin{subsection}{section}
@@ -152,6 +153,63 @@ To address these communication issues, the team adopted GitHub Issues for clear 
 \textbf{Areas for Further Improvement:}
 
 Technical discussions still contained excessive professional jargon, and unfamiliarity with various software and environments led to difficulties in comprehension among other team members. In the future, I should enhance my ability to explain complex technical concepts in simpler terms to improve cross-disciplinary communication effectiveness.
+
+\section*{3. Git Response}
+
+\textbf{1. Clone the repository}
+\begin{verbatim}
+git clone https://github.com/KaltsitFan/INFO1111_T4_SL_GROUP_6
+\end{verbatim}
+Download a copy of the remote repository to your local computer.This picture is show clone
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
+\captionof{figure}{Cloning the repository}
+\end{center}
+
+\textbf{2. Add all changed files}
+\begin{verbatim}
+git add .
+\end{verbatim}
+Stage all modified files to prepare them for commit.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
+\captionof{figure}{Adding files to the staging area}
+\end{center}
+
+\textbf{3. Commit the changes}
+\begin{verbatim}
+git commit -m "Kaffa submit tex inclue Step GIT"
+\end{verbatim}
+Save your changes with a meaningful commit message.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
+\captionof{figure}{Committing changes}
+\end{center}
+
+\textbf{4. Push to the remote repository}
+\begin{verbatim}
+git push
+\end{verbatim}
+Upload your local commits to the GitHub repository.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
+\captionof{figure}{Pushing to GitHub}
+\end{center}
+
+\textbf{5. Pull updates from remote}
+\begin{verbatim}
+git pull origin main
+\end{verbatim}
+Fetch and merge the latest changes from the remote \texttt{main} branch.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
+\captionof{figure}{Pulling updates}
+\end{center}
 
 \newpage
 
