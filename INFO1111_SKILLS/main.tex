@@ -169,6 +169,17 @@ Download a copy of the remote repository to your local computer.This picture is 
 
 \textbf{2. Add all changed files}
 \begin{verbatim}
+git add ./ git comimt -m"" / git push / git status
+\end{verbatim}
+Stage all modified files to prepare them for commit.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/push.png}
+\captionof{figure}{Adding files to the staging area}
+\end{center}
+
+\textbf{3.synchronization}
+\begin{verbatim}
 git add .
 \end{verbatim}
 Stage all modified files to prepare them for commit.
@@ -178,38 +189,8 @@ Stage all modified files to prepare them for commit.
 \captionof{figure}{Adding files to the staging area}
 \end{center}
 
-\textbf{3. Commit the changes}
-\begin{verbatim}
-git commit -m "Kaffa submit tex inclue Step GIT"
-\end{verbatim}
-Save your changes with a meaningful commit message.
 
-\begin{center}
-\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
-\captionof{figure}{Committing changes}
-\end{center}
 
-\textbf{4. Push to the remote repository}
-\begin{verbatim}
-git push
-\end{verbatim}
-Upload your local commits to the GitHub repository.
-
-\begin{center}
-\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
-\captionof{figure}{Pushing to GitHub}
-\end{center}
-
-\textbf{5. Pull updates from remote}
-\begin{verbatim}
-git pull origin main
-\end{verbatim}
-Fetch and merge the latest changes from the remote \texttt{main} branch.
-
-\begin{center}
-\includegraphics[width=0.8\textwidth]{kaffa/clone.png}
-\captionof{figure}{Pulling updates}
-\end{center}
 
 \newpage
 
