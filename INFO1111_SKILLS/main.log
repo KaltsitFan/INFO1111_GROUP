@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.29)  4 APR 2025 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.29)  4 APR 2025 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -435,12 +435,12 @@ Overfull \hbox (3.06747pt too wide) in paragraph at lines 84--84
 <kaffa/clone.png, id=70, 603.37921pt x 263.86078pt>
 File: kaffa/clone.png Graphic file (type png)
 <use kaffa/clone.png>
-Package pdftex.def Info: kaffa/clone.png  used on input line 169.
+Package pdftex.def Info: kaffa/clone.png  used on input line 175.
 (pdftex.def)             Requested size: 341.43437pt x 149.31111pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 170.
+(caption)                particular \caption on input line 176.
 See the caption package documentation for explanation.
 
 
@@ -449,12 +449,12 @@ See the caption package documentation for explanation.
 <kaffa/push.png, id=79, 616.17703pt x 540.14297pt>
 File: kaffa/push.png Graphic file (type png)
 <use kaffa/push.png>
-Package pdftex.def Info: kaffa/push.png  used on input line 187.
+Package pdftex.def Info: kaffa/push.png  used on input line 193.
 (pdftex.def)             Requested size: 341.43437pt x 299.30486pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 188.
+(caption)                particular \caption on input line 194.
 See the caption package documentation for explanation.
 
 
@@ -463,22 +463,22 @@ See the caption package documentation for explanation.
 <kaffa/synchronize.png, id=88, 427.2211pt x 316.55766pt>
 File: kaffa/synchronize.png Graphic file (type png)
 <use kaffa/synchronize.png>
-Package pdftex.def Info: kaffa/synchronize.png  used on input line 202.
+Package pdftex.def Info: kaffa/synchronize.png  used on input line 208.
 (pdftex.def)             Requested size: 341.43437pt x 252.99046pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 203.
+(caption)                particular \caption on input line 209.
 See the caption package documentation for explanation.
 
 <kaffa/forpdf.png, id=89, 497.23265pt x 347.42297pt>
 File: kaffa/forpdf.png Graphic file (type png)
 <use kaffa/forpdf.png>
-Package pdftex.def Info: kaffa/forpdf.png  used on input line 220.
+Package pdftex.def Info: kaffa/forpdf.png  used on input line 226.
 (pdftex.def)             Requested size: 341.43437pt x 238.56644pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 221.
+(caption)                particular \caption on input line 227.
 See the caption package documentation for explanation.
 
 
@@ -512,9 +512,9 @@ Here is how much of TeX's memory you used:
  36042 multiletter control sequences out of 15000+600000
  571170 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,469b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,734b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (12 pages, 489080 bytes).
+Output written on main.pdf (12 pages, 490264 bytes).
 PDF statistics:
  175 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
