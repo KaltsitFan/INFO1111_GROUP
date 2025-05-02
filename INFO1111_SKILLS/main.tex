@@ -327,10 +327,26 @@ The regular workflow for making changes consists of these steps:
 \begin{verbatim}
 git add .                          # Stage all modified files
 git commit -m "Descriptive message" # Commit changes locally
-git push origin main               # Push to remote repository
 git status                         # Verify repository state
 \end{verbatim}
 
+\begin{center}
+\includegraphics[width=0.8\textwidth]{BZ/2.png}
+\captionof{figure}{Git workflow: staging, committing}
+\end{center}
+
+\subsection*{3. Document Compilation}
+Generate the project PDF through terminal commands:
+\begin{verbatim}
+pushing oringin main
+bibtex main.aux      # Process citations
+pdflatex main.tex    # Final compilation
+\end{verbatim}
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{BZ/3.png}
+\captionof{figure}{Compiling LaTeX document to PDF and pushing}
+\end{center}
 
 \subsection*{Skills for Data Science: Link Lin}
 
