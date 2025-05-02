@@ -7,7 +7,8 @@
 \providecommand{\BIBentrySTDinterwordspacing}{\spaceskip=0pt\relax}
 \providecommand{\BIBentryALTinterwordstretchfactor}{4}
 \providecommand{\BIBentryALTinterwordspacing}{\spaceskip=\fontdimen2\font plus
-\BIBentryALTinterwordstretchfactor\fontdimen3\font minus \fontdimen4\font\relax}
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
 \providecommand{\BIBforeignlanguage}[2]{{%
 \expandafter\ifx\csname l@#1\endcsname\relax
 \typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
@@ -21,18 +22,26 @@
 \BIBdecl
 
 \bibitem{sfia}
-{SFIA}, ``The global skills and competency framework for the digital world,'' 2022, see \url{https://sfia-online.org/en/sfia-8/all-skills-a-z}.
+{SFIA}, ``The global skills and competency framework for the digital world,''
+  2022, see \url{https://sfia-online.org/en/sfia-8/all-skills-a-z}.
 
 \bibitem{network_security}
-{National Institute of Standards and Technology (NIST)}, ``Computer system security and privacy advisory meeting,'' 2002, see \url{https://csrc.nist.gov/CSRC/media/Events/CSSPAB-JUNE-2002-MEETING/documents/Lainhart-06-2002.pdf}.
+{National Institute of Standards and Technology (NIST)}, ``Computer system
+  security and privacy advisory meeting,'' 2002, see
+  \url{https://csrc.nist.gov/CSRC/media/Events/CSSPAB-JUNE-2002-MEETING/documents/Lainhart-06-2002.pdf}.
 
 \bibitem{data_protection}
-{European Union Agency for Cybersecurity (ENISA)}, ``A trusted and cyber secure europe,'' 2024, see \url{https://www.enisa.europa.eu/sites/default/files/2025-02/A%20Trusted%20and%20Cyber%20Secure%20Europe%20-%20ENISA%20Strategy%20-%20Indicators.pdf}.
+{European Union Agency for Cybersecurity (ENISA)}, ``A trusted and cyber secure
+  europe,'' 2024, see
+  \url{https://www.enisa.europa.eu/sites/default/files/2025-02/A%20Trusted%20and%20Cyber%20Secure%20Europe%20-%20ENISA%20Strategy%20-%20Indicators.pdf}.
 
 \bibitem{incident_response}
-{SANS Institute}, ``Incident response,'' 2021, see \url{https://www.sans.org/security-resources/glossary-of-terms/incident-response/}.
+{SANS Institute}, ``Incident response,'' 2021, see
+  \url{https://www.sans.org/security-resources/glossary-of-terms/incident-response/}.
 
 \bibitem{risk_assessment}
-{International Organization for Standardization (ISO)}, ``Information security, cybersecurity and privacy protection,'' 2022, see \url{https://www.iso.org/obp/ui/en/#iso:std:iso-iec:27005:ed-4:v1:en}.
+{International Organization for Standardization (ISO)}, ``Information security,
+  cybersecurity and privacy protection,'' 2022, see
+  \url{https://www.iso.org/obp/ui/en/#iso:std:iso-iec:27005:ed-4:v1:en}.
 
 \end{thebibliography}
