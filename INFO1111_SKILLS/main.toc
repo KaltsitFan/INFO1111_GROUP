@@ -2,15 +2,24 @@
 \contentsline {section}{\numberline {1.}Group Response}{2}{section.0.1}%
 \contentsline {section}{\numberline {2.}Individual Response}{3}{section.0.2}%
 \contentsline {subsection}{\numberline {2.1.}Skills for Computer Science: Kaffa Fan }{3}{subsection.0.2.1}%
-\contentsline {subsection}{\numberline {2.2.}Skills for SW Development: Jared Song}{7}{subsection.0.2.2}%
-\contentsline {subsubsection}{Key Technical Skills}{7}{subsubsection*.1}%
-\contentsline {subsubsection}{Skill Development through Collaboration}{7}{subsubsection*.2}%
-\contentsline {subsubsection}{Areas for Improvement}{7}{subsubsection*.3}%
-\contentsline {subsection}{\numberline {2.3.}Skills for Cybersecurity: Barnett Zheng}{10}{subsection.0.2.3}%
-\contentsline {subsubsection}{Key Technical Skills}{10}{subsubsection*.4}%
-\contentsline {subsubsection}{Skill Development through Collaboration}{10}{subsubsection*.5}%
-\contentsline {subsubsection}{Areas for Improvement}{10}{subsubsection*.6}%
-\contentsline {section}{\numberline {3.}Submission contribution overview}{18}{section.0.3}%
-\contentsline {subsection}{\numberline {3.1.}Submission 1 contribution overview}{18}{subsection.0.3.1}%
-\contentsline {subsection}{\numberline {3.2.}Submission 2 contribution overview}{18}{subsection.0.3.2}%
-\contentsline {subsection}{\numberline {3.3.}Submission 3 contribution overview}{18}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {2.2.}Advanced Submission Kaffa (Computer Science)}{4}{subsection.0.2.2}%
+\contentsline {subsubsection}{Project Management and Progress Overview}{4}{subsubsection*.1}%
+\contentsline {subsubsection}{Tool Exploration: Python WebSockets (Part A)}{4}{subsubsection*.2}%
+\contentsline {paragraph}{Main Functionalities of Python WebSockets}{4}{paragraph*.3}%
+\contentsline {paragraph}{Importance in Computer Science}{5}{paragraph*.4}%
+\contentsline {paragraph}{Limitations of WebSockets}{5}{paragraph*.5}%
+\contentsline {subsubsection}{Technical Implementation and Reflective Learning (Part B)}{5}{subsubsection*.6}%
+\contentsline {paragraph}{Technical Implementation: Basic WebSockets Example}{5}{paragraph*.7}%
+\contentsline {paragraph}{Reflective Learning}{6}{paragraph*.8}%
+\contentsline {subsection}{\numberline {2.3.}Skills for SW Development: Jared Song}{10}{subsection.0.2.3}%
+\contentsline {subsubsection}{Key Technical Skills}{10}{subsubsection*.9}%
+\contentsline {subsubsection}{Skill Development through Collaboration}{10}{subsubsection*.10}%
+\contentsline {subsubsection}{Areas for Improvement}{10}{subsubsection*.11}%
+\contentsline {subsection}{\numberline {2.4.}Skills for Cybersecurity: Barnett Zheng}{13}{subsection.0.2.4}%
+\contentsline {subsubsection}{Key Technical Skills}{13}{subsubsection*.12}%
+\contentsline {subsubsection}{Skill Development through Collaboration}{13}{subsubsection*.13}%
+\contentsline {subsubsection}{Areas for Improvement}{13}{subsubsection*.14}%
+\contentsline {section}{\numberline {3.}Submission contribution overview}{21}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1.}Submission 1 contribution overview}{21}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2.}Submission 2 contribution overview}{21}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3.}Submission 3 contribution overview}{21}{subsection.0.3.3}%

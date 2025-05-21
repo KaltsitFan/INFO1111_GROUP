@@ -150,6 +150,68 @@ Clear task definition through GitHub substantially improved our integration capa
 \textbf{Areas for Further Improvement:}  
 Our technical discussions sometimes involved excessive jargon, complicating interdisciplinary communication. Moving forward, simplifying complex technical concepts into clear, accessible language will be essential, particularly in high-stakes, collaborative disaster-response environments.
 
+\subsection{Advanced Submission Kaffa (Computer Science)}
+
+\subsubsection{Project Management and Progress Overview}
+
+Throughout the project, I established and utilized GitHub Projects along with Issue tracking functionalities to coordinate tasks, assign responsibilities, and monitor overall project progress effectively. The built-in project chart feature provided by GitHub enabled team members to visually track task completion rates, facilitating a clear understanding of the project's progression and enhancing our overall productivity.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/issue.png}
+\captionof{figure}{GitHub project board displaying Issues and their statuses}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/line chart.png}
+\captionof{figure}{GitHub project progress line chart}
+\end{center}
+
+\subsubsection{Tool Exploration: Python WebSockets (Part A)}
+
+\paragraph{Main Functionalities of Python WebSockets}
+
+Python WebSockets offers robust support for real-time bidirectional communication between clients and servers. Its primary functionalities include:
+
+\begin{itemize}
+\item \textbf{Full Duplex Communication:} Allows simultaneous sending and receiving of data.
+\item \textbf{Event-Driven Data Push:} Enables servers to proactively push updates to clients, eliminating continuous polling and thus ideal for real-time applications.
+\item \textbf{Seamless Integration and Support:} Python's websockets library integrates effortlessly with the asyncio framework, simplifying asynchronous programming and client-server interactions.
+\end{itemize}
+
+\paragraph{Importance in Computer Science}
+
+WebSockets play a pivotal role in applications that require real-time interaction, such as online collaboration tools, multiplayer games, and real-time monitoring dashboards. Specifically, in disaster response scenarios, WebSockets significantly improve system responsiveness by providing instantaneous data updates, enabling emergency responders to quickly react and mitigate risks efficiently.
+
+\paragraph{Limitations of WebSockets}
+
+Despite its significant advantages, WebSockets has certain limitations:
+
+\begin{itemize}
+\item \textbf{Limited Efficiency for Media Streams:} WebSockets is less efficient for streaming audio and video.
+\item \textbf{Complexity in Managing Connection Reliability:} Developers need to manually handle reconnection logic after interruptions, increasing implementation complexity.
+\item \textbf{Resource Intensive:} Continuous connections consume substantial server resources, especially in large-scale systems, requiring careful infrastructure planning and optimization.
+\end{itemize}
+
+\subsubsection{Technical Implementation and Reflective Learning (Part B)}
+
+\paragraph{Technical Implementation: Basic WebSockets Example}
+
+I developed a basic WebSockets demonstration showcasing client-server interaction. The application successfully establishes a WebSocket connection enabling real-time messaging, effectively illustrating core WebSocket functionality and typical application scenarios.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/server.png}
+\captionof{figure}{Terminal output demonstrating server startup and client connections}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{kaffa/client.png}
+\captionof{figure}{Example of message exchanges between client and server}
+\end{center}
+
+\paragraph{Reflective Learning}
+
+Initially, I encountered challenges related to environment setup and mastering asynchronous data handling, particularly regarding issues such as port mismatches and conflicts causing connection failures. To resolve these problems, I actively engaged with online forums like Stack Overflow, consulted official documentation, and conducted iterative testing with my team. Through this practical exercise, I not only gained deeper insights into WebSockets technology but also understood its strategic value in building highly responsive and real-time systems, especially applicable to critical scenarios like disaster management~\cite{websockets_lib}~\cite{sfia_guide}.
+
 
 \newpage
 
@@ -391,7 +453,7 @@ Through my work exploring data science applications, particularly in disaster re
     \item \textbf{Data Integration} \\
     Effective data integration for disaster scenarios required:
     \begin{itemize}
-        \item Combining diverse datasets (e.g., satellite imagery, weather forecasts) using Python’s \texttt{Pandas} library
+        \item Combining diverse datasets (e.g., satellite imagery, weather forecasts) using Python's \texttt{Pandas} library
         \item Normalizing inconsistent formats for real-time visualization during emergencies
     \end{itemize}
 
@@ -446,7 +508,7 @@ The team environment enhanced these skills by:
 \end{itemize}
 
 \subsubsection*{Areas for Improvement}
-Through my data science efforts, I’ve identified key areas for growth:
+Through my data science efforts, I've identified key areas for growth:
 \begin{itemize}
     \item \textbf{Data Quality Handling}: Need better proficiency in manual data cleaning techniques (e.g., handling missing values), as shown when inconsistent weather data skewed early predictions.
     \item \textbf{Model Interpretability}: Struggle to explain complex model outputs clearly; improving visualization skills with tools like Matplotlib or Seaborn will aid communication with non-technical stakeholders.

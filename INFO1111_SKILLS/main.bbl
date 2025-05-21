@@ -25,6 +25,15 @@
 {SFIA}, ``The global skills and competency framework for the digital world,''
   2022, see \url{https://sfia-online.org/en/sfia-8/all-skills-a-z}.
 
+\bibitem{websockets_lib}
+{Websockets Library Documentation}, ``Websockets library documentation, version
+  10.3,'' 2025, available: \url{https://websockets.readthedocs.io/} (accessed
+  May 21, 2025).
+
+\bibitem{sfia_guide}
+{SFIA Foundation}, ``Sfia 8 reference guide,'' 2021, available:
+  \url{https://sfia-online.org/en/sfia-8} (accessed May 21, 2025).
+
 \bibitem{network_security}
 {National Institute of Standards and Technology (NIST)}, ``Computer system
   security and privacy advisory meeting,'' 2002, see

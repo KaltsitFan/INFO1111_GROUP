@@ -1,8 +1,8 @@
-PWD c:/Users/Kaffaa/Desktop/2025_school/INFO1111_T4_SL_GROUP_6/INFO1111_SKILLS
+PWD c:/Users/Kaffaa/Desktop/Group_5.4/INFO1111_T4_SL_GROUP_6/Final/INFO1111_T4_SL_GROUP_6/INFO1111_SKILLS
 INPUT c:/texlive/2025/texmf.cnf
 INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Kaffaa/Desktop/2025_school/INFO1111_T4_SL_GROUP_6/INFO1111_SKILLS/main.tex
+INPUT c:/Users/Kaffaa/Desktop/Group_5.4/INFO1111_T4_SL_GROUP_6/Final/INFO1111_T4_SL_GROUP_6/INFO1111_SKILLS/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -175,6 +175,26 @@ INPUT main.toc
 OUTPUT main.toc
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
+INPUT ./kaffa/issue.png
+INPUT ./kaffa/issue.png
+INPUT ./kaffa/issue.png
+INPUT ./kaffa/issue.png
+INPUT ./kaffa/issue.png
+INPUT ./kaffa/line chart.png
+INPUT ./kaffa/line chart.png
+INPUT ./kaffa/line chart.png
+INPUT ./kaffa/line chart.png
+INPUT ./kaffa/line chart.png
+INPUT ./kaffa/server.png
+INPUT ./kaffa/server.png
+INPUT ./kaffa/server.png
+INPUT ./kaffa/server.png
+INPUT ./kaffa/server.png
+INPUT ./kaffa/client.png
+INPUT ./kaffa/client.png
+INPUT ./kaffa/client.png
+INPUT ./kaffa/client.png
+INPUT ./kaffa/client.png
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
 INPUT ./kaffa/clone.png
 INPUT ./kaffa/clone.png
@@ -196,6 +216,31 @@ INPUT ./kaffa/forpdf.png
 INPUT ./kaffa/forpdf.png
 INPUT ./kaffa/forpdf.png
 INPUT ./kaffa/forpdf.png
+INPUT ./Jared/clone.png
+INPUT ./Jared/clone.png
+INPUT ./Jared/clone.png
+INPUT ./Jared/clone.png
+INPUT ./Jared/clone.png
+INPUT ./Jared/gitadd.png
+INPUT ./Jared/gitadd.png
+INPUT ./Jared/gitadd.png
+INPUT ./Jared/gitadd.png
+INPUT ./Jared/gitadd.png
+INPUT ./Jared/gitpush.png
+INPUT ./Jared/gitpush.png
+INPUT ./Jared/gitpush.png
+INPUT ./Jared/gitpush.png
+INPUT ./Jared/gitpush.png
+INPUT ./Jared/git pull.png
+INPUT ./Jared/git pull.png
+INPUT ./Jared/git pull.png
+INPUT ./Jared/git pull.png
+INPUT ./Jared/git pull.png
+INPUT ./Jared/git.png
+INPUT ./Jared/git.png
+INPUT ./Jared/git.png
+INPUT ./Jared/git.png
+INPUT ./Jared/git.png
 INPUT ./BZ/1.png
 INPUT ./BZ/1.png
 INPUT ./BZ/1.png
@@ -211,6 +256,26 @@ INPUT ./BZ/3.png
 INPUT ./BZ/3.png
 INPUT ./BZ/3.png
 INPUT ./BZ/3.png
+INPUT ./link/11.png
+INPUT ./link/11.png
+INPUT ./link/11.png
+INPUT ./link/11.png
+INPUT ./link/11.png
+INPUT ./link/22.png
+INPUT ./link/22.png
+INPUT ./link/22.png
+INPUT ./link/22.png
+INPUT ./link/22.png
+INPUT ./link/33.png
+INPUT ./link/33.png
+INPUT ./link/33.png
+INPUT ./link/33.png
+INPUT ./link/33.png
+INPUT ./link/44.png
+INPUT ./link/44.png
+INPUT ./link/44.png
+INPUT ./link/44.png
+INPUT ./link/44.png
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
