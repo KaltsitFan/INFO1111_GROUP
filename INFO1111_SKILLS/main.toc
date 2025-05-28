@@ -15,11 +15,13 @@
 \contentsline {subsubsection}{Key Technical Skills}{10}{subsubsection*.9}%
 \contentsline {subsubsection}{Skill Development through Collaboration}{10}{subsubsection*.10}%
 \contentsline {subsubsection}{Areas for Improvement}{10}{subsubsection*.11}%
-\contentsline {subsection}{\numberline {2.4.}Skills for Cybersecurity: Barnett Zheng}{13}{subsection.0.2.4}%
-\contentsline {subsubsection}{Key Technical Skills}{13}{subsubsection*.12}%
-\contentsline {subsubsection}{Skill Development through Collaboration}{13}{subsubsection*.13}%
-\contentsline {subsubsection}{Areas for Improvement}{13}{subsubsection*.14}%
-\contentsline {section}{\numberline {3.}Submission contribution overview}{21}{section.0.3}%
-\contentsline {subsection}{\numberline {3.1.}Submission 1 contribution overview}{21}{subsection.0.3.1}%
-\contentsline {subsection}{\numberline {3.2.}Submission 2 contribution overview}{21}{subsection.0.3.2}%
-\contentsline {subsection}{\numberline {3.3.}Submission 3 contribution overview}{21}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {2.4.}Advanced Submission Jared(Software Engineering)}{12}{subsection.0.2.4}%
+\contentsline {subsubsection}{Part A: Exploration of Tech Tools}{13}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {2.5.}Skills for Cybersecurity: Barnett Zheng}{16}{subsection.0.2.5}%
+\contentsline {subsubsection}{Key Technical Skills}{16}{subsubsection*.13}%
+\contentsline {subsubsection}{Skill Development through Collaboration}{16}{subsubsection*.14}%
+\contentsline {subsubsection}{Areas for Improvement}{16}{subsubsection*.15}%
+\contentsline {section}{\numberline {3.}Submission contribution overview}{24}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1.}Submission 1 contribution overview}{24}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2.}Submission 2 contribution overview}{24}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3.}Submission 3 contribution overview}{24}{subsection.0.3.3}%

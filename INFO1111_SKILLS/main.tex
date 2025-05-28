@@ -352,7 +352,7 @@ Clone the remote repository to local computer:
 
 \textbf{3. Synchronize repository}
 \begin{center}
-\includegraphics[width=0.8\textwidth]{Jared/git pull.png}  
+\includegraphics[width=0.8\textwidth]{Jared/git\_pull.png}  
 \captionof{figure}{Pulling latest changes from remote repository}
 \end{center}
 
@@ -363,9 +363,24 @@ Clone the remote repository to local computer:
 
 \subsection{Advanced Submission Jared(Software Engineering)}
 
+\subsection*{GitHub Project Tracking Evidence}
+
+To manage the progress of Advanced Task 2, our team created a GitHub Project board titled \textit{INFO1111\_Disaster\_Response\_System}. Tasks such as researching Pytest, writing LaTeX sections, and collecting screenshots were assigned via GitHub
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Jared/github_project.png}
+\captionof{figure}{INFO1111 GitHub Project board tracking advanced task progress}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Jared/chart.png}
+\captionof{figure}{GitHub project chart showing activity over time}
+\end{center}
+
 \subsubsection{Part A: Exploration of Tech Tools}
 
-Pytest is one of the most widely adopted testing frameworks in Python-based software development. It is especially valued for its simplicity, scalability, and integration with continuous integration (CI) pipelines.
+Pytest is one of the most widely adopted testing frameworks in Python-based software development. It is especially valued for its simplicity, scalability, and integration with continuous integration (CI) pipelines \cite{pytestdoc}.
+
 
 \textbf{Main Functionalities:}
 \begin{itemize}
@@ -374,8 +389,10 @@ Pytest is one of the most widely adopted testing frameworks in Python-based soft
   \item \textbf{Detailed failure reports}: When a test fails, Pytest generates clear and detailed error messages with variable values, making debugging much more efficient.
 \end{itemize}
 
+
 \textbf{Relevance to Software Development:} \\
-In modern software engineering, testing is essential for ensuring correctness and robustness. Pytest plays a vital role in automating tests, enabling developers to detect regressions and bugs early. It integrates seamlessly with CI tools and GitHub workflows, improving code quality and developer productivity. Within the context of a disaster response system, the reliability of modules such as resource allocation or emergency communication must be assured, and Pytest facilitates this by enabling thorough testing.
+In modern software engineering, testing is essential for ensuring correctness and robustness. Pytest plays a vital role in automating tests, enabling developers to detect regressions and bugs early. It integrates seamlessly with CI tools and GitHub workflows, improving code quality and developer productivity \cite{okken2017pytest}. Within the context of a disaster response system, the reliability of modules such as resource allocation or emergency communication must be assured, and Pytest facilitates this by enabling thorough testing.
+
 
 
 \textbf{Limitations:}
@@ -386,18 +403,33 @@ In modern software engineering, testing is essential for ensuring correctness an
 \end{itemize}
 
 \textbf{References:} \\
-\cite{okken2017pytest} \cite{pytestdoc}
+\cite{okken2017pytest}, \cite{pytestdoc}, \cite{usyd2}, \cite{sfia_guide}
 
 \subsection*{Part B: Technical Skills and Analysis}
 
 To explore the usage of Pytest, I developed a simple example involving a function that adds two numbers. The corresponding test function ensures the correctness of the result.
 
+
 \textbf{Screenshot Evidence:}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\linewidth]{Jared/pytest_code.png}
-    \caption{Test function and Pytest result in terminal}
-\end{figure}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Jared/pytest_code.png}
+\captionof{figure}{Test function and Pytest result in terminal}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{Jared/git_commit.png}
+\captionof{figure}{Git commit and push of Pytest test file}
+\end{center}
+
+\textbf{Reflection:} \\
+I began my learning process by reading the official Pytest documentation \cite{pytestdoc} and watching short tutorials online. Initially, I found the fixture system difficult to understand, especially regarding different scopes and reuse across test files. Through hands-on trial and error and experimentation, I was able to grasp these concepts. Running tests using the command line allowed me to view detailed reports, which helped me identify minor errors in my logic.
+
+This experience has highlighted the crucial role that testing plays in software development. In the disaster response system, every feature---from login authentication to real-time alerts---must function reliably under pressure. Pytest enables developers to verify this reliability efficiently and is therefore highly applicable in mission-critical applications.
+
+\vspace{0.3cm}
+\noindent
+\textbf{References:} \\
+\cite{okken2017pytest}, \cite{pytestdoc}, \cite{sfia_guide}, \cite{usyd2}
 
 
 \newpage
