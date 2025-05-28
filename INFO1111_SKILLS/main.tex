@@ -282,10 +282,6 @@ This picture illustrates generating a PDF using terminal:
 \end{center}
 
 
-
-
-
-
 \newpage
 
 \subsection{Skills for SW Development: Jared Song}
@@ -364,6 +360,44 @@ Clone the remote repository to local computer:
 \begin{center}
 \includegraphics[width=0.8\textwidth]{Jared/git.png}  
 \end{center}
+
+\subsection{Advanced Submission Jared(Software Engineering)}
+
+\subsubsection{Part A: Exploration of Tech Tools}
+
+Pytest is one of the most widely adopted testing frameworks in Python-based software development. It is especially valued for its simplicity, scalability, and integration with continuous integration (CI) pipelines.
+
+\textbf{Main Functionalities:}
+\begin{itemize}
+  \item \textbf{Automatic test discovery}: Pytest automatically identifies files and functions that start with \texttt{test\_} and executes them, which simplifies the testing process.
+  \item \textbf{Fixture support}: Pytest provides a powerful fixture system that allows setup and teardown logic to be reused across multiple test functions.
+  \item \textbf{Detailed failure reports}: When a test fails, Pytest generates clear and detailed error messages with variable values, making debugging much more efficient.
+\end{itemize}
+
+\textbf{Relevance to Software Development:} \\
+In modern software engineering, testing is essential for ensuring correctness and robustness. Pytest plays a vital role in automating tests, enabling developers to detect regressions and bugs early. It integrates seamlessly with CI tools and GitHub workflows, improving code quality and developer productivity. Within the context of a disaster response system, the reliability of modules such as resource allocation or emergency communication must be assured, and Pytest facilitates this by enabling thorough testing.
+
+
+\textbf{Limitations:}
+\begin{itemize}
+  \item \textbf{Steep learning curve for advanced features}: Although basic usage is easy, features like fixture scopes and parameterisation can be difficult for beginners.
+  \item \textbf{Limited support for asynchronous code}: Out of the box, Pytest does not support asynchronous functions. Plugins like \texttt{pytest-asyncio} are required.
+  \item \textbf{Not suited for GUI testing}: Pytest is primarily designed for backend and logic tests; it lacks direct support for GUI elements.
+\end{itemize}
+
+\textbf{References:} \\
+\cite{okken2017pytest} \cite{pytestdoc}
+
+\subsection*{Part B: Technical Skills and Analysis}
+
+To explore the usage of Pytest, I developed a simple example involving a function that adds two numbers. The corresponding test function ensures the correctness of the result.
+
+\textbf{Screenshot Evidence:}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{Jared/pytest_code.png}
+    \caption{Test function and Pytest result in terminal}
+\end{figure}
 
 
 \newpage
